@@ -1,0 +1,29 @@
+{
+  "name": "homie_backend",
+  "version": "1.0.0",
+  "description": "homie backend",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nurhaziqharis/homie_backend.git"
+  },
+  "keywords": [
+    "homiebackend"
+  ],
+  "author": "haziqharis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nurhaziqharis/homie_backend/issues"
+  },
+  "homepage": "https://github.com/nurhaziqharis/homie_backend#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "mongoose": "^8.15.0",
+    "nodemon": "^3.1.10"
+  }
+}
