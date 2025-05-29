@@ -22,7 +22,10 @@
   },
   "homepage": "https://github.com/nurhaziqharis/homie_backend#readme",
   "dependencies": {
+    "bcrypt": "^6.0.0",
+    "bcryptjs": "^3.0.2",
     "express": "^5.1.0",
+    "mongodb": "^6.16.0",
     "mongoose": "^8.15.0",
     "nodemon": "^3.1.10"
   }
